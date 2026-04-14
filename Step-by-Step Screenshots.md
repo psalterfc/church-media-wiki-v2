@@ -1,4 +1,4 @@
-# Step-by-Step Setup (With Screenshots)
+# Step-by-Step Setup
 
 > NOTE: Replace the placeholder images with real screenshots from your setup.
 
@@ -6,19 +6,20 @@
 
 ## 1. ATEM Software Control
 
-![ATEM Software](images/atem-software.png)
+![ATEM Software]
 
 - Confirm inputs
 - Check audio levels
-- Enable keyers
+- Test keyers for the hymn overlay
+- Enable the downstream key for the logo
 
 ---
 
-## 2. OBS Setup
+## 2. OBS Setup (if required)
 
-![OBS Setup](images/obs-setup.png)
+![OBS Setup]
 
-- Add Video Capture Device (ATEM)
+- Add / ensure Video Capture Device (ATEM)
 - Check audio meters
 - Click Start Streaming
 
@@ -39,20 +40,8 @@
 ![Castr](images/castr.png)
 
 - Confirm destinations
-- Ensure stream is live
+- Update the metadata for the title and description
+- Ensure both streams (youtube and facebook) are live
 
 ---
 
-## How to Add Your Screenshots
-
-1. Take screenshots on each system:
-   - ATEM Software Control
-   - OBS
-   - EasyWorship
-   - Castr
-2. Save images as:
-   - atem-software.png
-   - obs-setup.png
-   - easyworship.png
-   - castr.png
-3. Upload them into the `/images` folder in your repo
