@@ -2,17 +2,17 @@
 
 ## EasyWorship Operator
 - Load songs and bible verses
-- Ensure green background
+- Ensure the right song and bible themes
 - Display lyrics at correct time
 - Remove lyrics after use
+- Support with maintaining the supersource
+- Develop graphics on Canva where required 
 
-## PTZ Camera Operator
+## PTZ Camera Operator / Stream Operator (OBS/ATEM)
 - Control camera movement
-- Use presets (pulpit, choir)
+- Use presets (pulpit, choir) - if applicable
 - Keep shots steady
 - Follow service flow
-
-## Stream Operator (OBS/ATEM)
 - Switch cameras
 - Monitor audio
 - Start/stop stream
